@@ -4,4 +4,4 @@ replace github.com/pasdam/go-filesystem/pkg => ./pkg
 
 go 1.14
 
-require github.com/stretchr/testify v1.6.1
+require github.com/stretchr/testify v1.7.0
